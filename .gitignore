@@ -1,0 +1,9 @@
+# VS Code project files
+.vscode/
+
+# Temporary files
+.tmp/
+
+# Build files
+node_modules/
+
